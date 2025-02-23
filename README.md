@@ -36,10 +36,10 @@ This project demonstrates how to secure a web application using Spring Boot and 
 
 ## Demo
 ### Home page:
-    ![Home Page](src/main/resources/img/home.png)
+![Home Page](src/main/resources/img/home.png)
 ### After clicking the button, navigate to the login page:
-    ![Login Page](src/main/resources/img/login.png)
+![Login Page](src/main/resources/img/login.png)
 ### After login:
-    ![Welcome Page](src/main/resources/img/hello.png)
+![Welcome Page](src/main/resources/img/hello.png)
 ### After Signout:
-    ![Signout Page](src/main/resources/img/signout.png)
+![Signout Page](src/main/resources/img/signout.png)
