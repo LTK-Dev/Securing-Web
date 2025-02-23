@@ -1,5 +1,8 @@
 # Securing a Web Application
 
+Name: Lê Tuấn Kiệt  
+StudentID: 22024546
+
 ## Overview
 This project demonstrates how to secure a web application using Spring Boot and Spring Security. It provides basic authentication and authorization features, utilizing a simple in-memory user store.
 
@@ -13,7 +16,6 @@ This project demonstrates how to secure a web application using Spring Boot and 
 1. Clone the repository:
     ```sh
     git clone https://github.com/LTK-Dev/Securing-Web.git
-    cd PTUDDN-SecureWeb
     ```
 
 2. Build the project using Maven:
